@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+music_env/
+venv/
+env/
+
+# Output directories
+output/
+pages/
+musicxml/
+logs/
+
+# Temporary files
+*.log
+*.tmp
+*.musicxml
+*.png
+*.pdf
+nohup.out
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
